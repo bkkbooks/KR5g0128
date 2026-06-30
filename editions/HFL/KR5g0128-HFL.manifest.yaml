@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0128/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5g0128/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞真西王母寶神起居經
+  date: '2015-08-29 02:58:20.315960'
+  source:
+    repository: kanripo
+    path: KR5g0128
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0128_000-HFL.yaml, hash: 'sha256:b7ebeb7a441480722f91662d24d993432d24912fc0d38bba2857e1b8c1f74dbb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0128_000-HFL.markers.yaml, hash: 'sha256:fc40b706822929968530768e447c2c5f6e0aeb54bcffbfee3d52a0e2579769f1'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0128_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 4753
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:4309eff9288b834f33a30261ff98b264a7b51d98fb8024717c4426fe1c9fb60b

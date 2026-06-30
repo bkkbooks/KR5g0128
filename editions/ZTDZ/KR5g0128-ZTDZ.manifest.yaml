@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0128/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0128/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞真西王母寶神起居經
+  date: '2015-08-29 02:58:20.315960'
+  source:
+    repository: kanripo
+    path: KR5g0128
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0128_000-ZTDZ.yaml, hash: 'sha256:147caf3eecf70e33cbe4bb5aa7e1c7d23cb1e09eb0a072691307319c10af5ce4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0128_000-ZTDZ.markers.yaml, hash: 'sha256:ec821e2fe14194c437ed2c102c2ed8da564ee559bb9ecf0bbb5813f72e5d87b8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0128_SJB_000-330460b
+    span:
+    - body
+    - 0
+    - 4753
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:c67e74e9baeb92bbe2a7779499d76f6f3ec3bb529e0034902d235a3c5a891872

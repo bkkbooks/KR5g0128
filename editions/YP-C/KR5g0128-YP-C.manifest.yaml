@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0128/YP-C/v1
+canonical_location: https://kanripo.org/bkk/KR5g0128/YP-C/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞真西王母寶神起居經
+  date: '2015-08-29 02:58:20.315960'
+  source:
+    repository: kanripo
+    path: KR5g0128
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: YP-C
+    label: 【原版道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0128_000-YP-C.yaml, hash: 'sha256:77c6c948a14ba4712e65cba89896b0257d3864508ae5407ffdf001ca521672c9'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0128_000-YP-C.markers.yaml, hash: 'sha256:560b2b00f93f35679c073fd70fd15f0eb11f83e576377a446a893e27aa218ce9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0128_YP-C_08douji-11-0022a
+    span:
+    - body
+    - 0
+    - 4743
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:1e1b0ff7396336055c1742a45d21f345e6c2b6c2e076725918533acb6fa1bbd7
